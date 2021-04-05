@@ -1,0 +1,7 @@
+C:\Users\82108\source\repos\javatocsharp\javatocsharp\bin\Debug\javatocsharp.exe.config
+C:\Users\82108\source\repos\javatocsharp\javatocsharp\bin\Debug\javatocsharp.exe
+C:\Users\82108\source\repos\javatocsharp\javatocsharp\bin\Debug\javatocsharp.pdb
+C:\Users\82108\source\repos\javatocsharp\javatocsharp\obj\Debug\javatocsharp.csprojAssemblyReference.cache
+C:\Users\82108\source\repos\javatocsharp\javatocsharp\obj\Debug\javatocsharp.csproj.CoreCompileInputs.cache
+C:\Users\82108\source\repos\javatocsharp\javatocsharp\obj\Debug\javatocsharp.exe
+C:\Users\82108\source\repos\javatocsharp\javatocsharp\obj\Debug\javatocsharp.pdb
